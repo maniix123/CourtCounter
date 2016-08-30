@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_5b28b8d7ab35790b2707e5ab7e378b1904d27f29.jar" />
+    </item>
+    <item
+        jar="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_de149be9719c596f0217fbbc668c0fbd04da74d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3d5475ea064282712fb8495df0908802d7090396">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\instant-run_91a7f484066537e0d111a99096e3217a43252bcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_50e1eb2f4d909b78151390bf335e9a633405bbee.jar" />
+    </item>
+    <item
+        jar="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19add53a801a4050c0a6211e4b25dcdd85bbdd1a">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_92e8414c8181971168ceacafc9fab09a341ad593.jar" />
+    </item>
+    <item
+        jar="D:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\manix\Desktop\Apps\CourtCounter\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_0f9b02dd483020e45749c1ce205960d41bb56da3.jar" />
+    </item>
+
+</items>
