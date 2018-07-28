@@ -1,7 +1,7 @@
 # CourtCounter
 This is my Android Court Counter mobile applicattion.
 
-This is the only android app that I made using JAVA, and not using HTML5, CSS and jQuery, unlike my other projects.
+One of the few android apps that I made using JAVA, and not using HTML5, CSS and jQuery, unlike my other projects.
 
 This app is made for keeping score for basketball teams, the app provides 3 points, 2 points, 1 point scores.
 
